@@ -1,6 +1,6 @@
 ![logo](https://github.com/itsmeshalu-24/itsmeshalu-24/blob/main/Shalu.png)
 <h1 align="center">Hi 👋, I'm Shalu Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img aline="right" alt="Codeing" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeshalu-24&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeshalu-24" /> </p>
